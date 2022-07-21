@@ -1,0 +1,13 @@
+D:\Nimo\Nimo Cinema.exe
+D:\Nimo\Nimo Cinema.dll
+D:\Nimo\Nimo Cinema.deps.json
+D:\Nimo\Nimo Cinema.runtimeconfig.json
+D:\Nimo\Nimo Cinema.dll.config
+D:\Nimo\Nimo Cinema.pdb
+D:\Nimo\FontAwesome.Sharp.dll
+D:\Nimo\System.Data.SqlClient.dll
+D:\Nimo\runtimes\win-arm64\native\sni.dll
+D:\Nimo\runtimes\win-x64\native\sni.dll
+D:\Nimo\runtimes\win-x86\native\sni.dll
+D:\Nimo\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Nimo\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

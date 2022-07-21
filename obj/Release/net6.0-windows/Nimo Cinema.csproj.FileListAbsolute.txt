@@ -1,0 +1,38 @@
+D:\All\C# project\Nimo Cinema\bin\Release\net6.0-windows\Nimo Cinema.exe
+D:\All\C# project\Nimo Cinema\bin\Release\net6.0-windows\Nimo Cinema.dll.config
+D:\All\C# project\Nimo Cinema\bin\Release\net6.0-windows\Nimo Cinema.deps.json
+D:\All\C# project\Nimo Cinema\bin\Release\net6.0-windows\Nimo Cinema.runtimeconfig.json
+D:\All\C# project\Nimo Cinema\bin\Release\net6.0-windows\Nimo Cinema.dll
+D:\All\C# project\Nimo Cinema\bin\Release\net6.0-windows\Nimo Cinema.pdb
+D:\All\C# project\Nimo Cinema\bin\Release\net6.0-windows\FontAwesome.Sharp.dll
+D:\All\C# project\Nimo Cinema\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+D:\All\C# project\Nimo Cinema\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\All\C# project\Nimo Cinema\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\All\C# project\Nimo Cinema\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\All\C# project\Nimo Cinema\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\All\C# project\Nimo Cinema\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo Cinema.csproj.AssemblyReference.cache
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo_Cinema.FormAboutus.resources
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo_Cinema.FormAdmin.resources
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo_Cinema.FormBill.resources
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo_Cinema.FormCinema.resources
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo_Cinema.loginForm.resources
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo_Cinema.FormMovie.resources
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo_Cinema.FormPasswordRecovery.resources
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo_Cinema.FormPrint.resources
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo_Cinema.FormProfile.resources
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo_Cinema.FormSnack.resources
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo_Cinema.FormTransactionRecord.resources
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo_Cinema.FormUser.resources
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo_Cinema.Properties.Resources.resources
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo Cinema.csproj.GenerateResource.cache
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo Cinema.AssemblyInfoInputs.cache
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo Cinema.AssemblyInfo.cs
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo Cinema.csproj.CoreCompileInputs.cache
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo Cinema.csproj.CopyComplete
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo Cinema.dll
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\refint\Nimo Cinema.dll
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo Cinema.pdb
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\Nimo Cinema.genruntimeconfig.cache
+D:\All\C# project\Nimo Cinema\obj\Release\net6.0-windows\ref\Nimo Cinema.dll
