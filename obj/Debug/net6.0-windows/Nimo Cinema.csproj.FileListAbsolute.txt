@@ -36,3 +36,41 @@ D:\All\C# project\Nimo Cinema\obj\Debug\net6.0-windows\refint\Nimo Cinema.dll
 D:\All\C# project\Nimo Cinema\obj\Debug\net6.0-windows\Nimo Cinema.pdb
 D:\All\C# project\Nimo Cinema\obj\Debug\net6.0-windows\Nimo Cinema.genruntimeconfig.cache
 D:\All\C# project\Nimo Cinema\obj\Debug\net6.0-windows\ref\Nimo Cinema.dll
+D:\GitHub\Nimo-Cinema\bin\Debug\net6.0-windows\Nimo Cinema.exe
+D:\GitHub\Nimo-Cinema\bin\Debug\net6.0-windows\Nimo Cinema.dll.config
+D:\GitHub\Nimo-Cinema\bin\Debug\net6.0-windows\Nimo Cinema.deps.json
+D:\GitHub\Nimo-Cinema\bin\Debug\net6.0-windows\Nimo Cinema.runtimeconfig.json
+D:\GitHub\Nimo-Cinema\bin\Debug\net6.0-windows\Nimo Cinema.dll
+D:\GitHub\Nimo-Cinema\bin\Debug\net6.0-windows\Nimo Cinema.pdb
+D:\GitHub\Nimo-Cinema\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\GitHub\Nimo-Cinema\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\GitHub\Nimo-Cinema\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\GitHub\Nimo-Cinema\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\GitHub\Nimo-Cinema\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\GitHub\Nimo-Cinema\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\Nimo-Cinema\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo Cinema.csproj.AssemblyReference.cache
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo_Cinema.FormAboutus.resources
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo_Cinema.FormAdmin.resources
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo_Cinema.FormBill.resources
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo_Cinema.FormCinema.resources
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo_Cinema.loginForm.resources
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo_Cinema.FormMovie.resources
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo_Cinema.FormPasswordRecovery.resources
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo_Cinema.FormPrint.resources
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo_Cinema.FormProfile.resources
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo_Cinema.FormSnack.resources
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo_Cinema.FormTransactionRecord.resources
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo_Cinema.FormUser.resources
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo_Cinema.Properties.Resources.resources
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo Cinema.csproj.GenerateResource.cache
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo Cinema.AssemblyInfoInputs.cache
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo Cinema.AssemblyInfo.cs
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo Cinema.csproj.CoreCompileInputs.cache
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo Cinema.csproj.CopyComplete
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo Cinema.dll
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\refint\Nimo Cinema.dll
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo Cinema.pdb
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\Nimo Cinema.genruntimeconfig.cache
+D:\GitHub\Nimo-Cinema\obj\Debug\net6.0-windows\ref\Nimo Cinema.dll

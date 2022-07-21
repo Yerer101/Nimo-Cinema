@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DreJxpIP/aNRSvOIgLYQOt47Y84nm9+BNmZGayDSqdc1VoWLpqFWjR1fD8/rNX6eHwHAV9BcU0cQhO5pMz1dFw==",
+  "dgSpecHash": "59M6GkSgKw9rel2PdM1sOfuu7rnAImHvEuQ34DjB1SFL5e+fiNKfC8rN5gjzqBCI/PpDsm746cUEAjrkQpr8ug==",
   "success": true,
-  "projectFilePath": "D:\\All\\C# project\\Nimo Cinema\\Nimo Cinema.csproj",
+  "projectFilePath": "D:\\GitHub\\Nimo-Cinema\\Nimo Cinema.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abrah\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
     "C:\\Users\\abrah\\.nuget\\packages\\fontawesome.sharp\\5.15.4\\fontawesome.sharp.5.15.4.nupkg.sha512",

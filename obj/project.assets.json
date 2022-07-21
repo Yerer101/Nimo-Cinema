@@ -514,11 +514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\All\\C# project\\Nimo Cinema\\Nimo Cinema.csproj",
+      "projectUniqueName": "D:\\GitHub\\Nimo-Cinema\\Nimo Cinema.csproj",
       "projectName": "Nimo Cinema",
-      "projectPath": "D:\\All\\C# project\\Nimo Cinema\\Nimo Cinema.csproj",
+      "projectPath": "D:\\GitHub\\Nimo-Cinema\\Nimo Cinema.csproj",
       "packagesPath": "C:\\Users\\abrah\\.nuget\\packages\\",
-      "outputPath": "D:\\All\\C# project\\Nimo Cinema\\obj\\",
+      "outputPath": "D:\\GitHub\\Nimo-Cinema\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
