@@ -1,2 +1,2 @@
 # Nimo Cinema
- Movie Ticket Booking System For Cineam 
+ Movie Ticket Booking System For Cinema
